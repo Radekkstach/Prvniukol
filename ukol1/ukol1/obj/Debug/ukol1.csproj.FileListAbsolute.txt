@@ -8,3 +8,13 @@ G:\PRogramovani\ukol1\ukol1\obj\Debug\ukol1.csproj.GenerateResource.cache
 G:\PRogramovani\ukol1\ukol1\obj\Debug\ukol1.csproj.CoreCompileInputs.cache
 G:\PRogramovani\ukol1\ukol1\obj\Debug\ukol1.exe
 G:\PRogramovani\ukol1\ukol1\obj\Debug\ukol1.pdb
+C:\Users\Uživatel\Desktop\programy\ukol1verze2\ukol1\ukol1\bin\Debug\ukol1.exe.config
+C:\Users\Uživatel\Desktop\programy\ukol1verze2\ukol1\ukol1\bin\Debug\ukol1.exe
+C:\Users\Uživatel\Desktop\programy\ukol1verze2\ukol1\ukol1\bin\Debug\ukol1.pdb
+C:\Users\Uživatel\Desktop\programy\ukol1verze2\ukol1\ukol1\obj\Debug\ukol1.csprojAssemblyReference.cache
+C:\Users\Uživatel\Desktop\programy\ukol1verze2\ukol1\ukol1\obj\Debug\ukol1.Form1.resources
+C:\Users\Uživatel\Desktop\programy\ukol1verze2\ukol1\ukol1\obj\Debug\ukol1.Properties.Resources.resources
+C:\Users\Uživatel\Desktop\programy\ukol1verze2\ukol1\ukol1\obj\Debug\ukol1.csproj.GenerateResource.cache
+C:\Users\Uživatel\Desktop\programy\ukol1verze2\ukol1\ukol1\obj\Debug\ukol1.csproj.CoreCompileInputs.cache
+C:\Users\Uživatel\Desktop\programy\ukol1verze2\ukol1\ukol1\obj\Debug\ukol1.exe
+C:\Users\Uživatel\Desktop\programy\ukol1verze2\ukol1\ukol1\obj\Debug\ukol1.pdb
